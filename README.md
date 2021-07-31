@@ -30,5 +30,5 @@
   <a href="https://www.linkedin.com/in/jéssica-pedro-160375201/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   <div>
-    <img align="right" alt="jssica-gaara" src="https://giffiles.alphacoders.com/121/12155.gif">
+    <img align="right" alt="jssica-gaara" src="https://giffiles.alphacoders.com/121/12155.gif" stylr=" width:400px margin:-8em ">
   </div>
