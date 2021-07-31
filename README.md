@@ -1,5 +1,6 @@
 ###Olá! Eu sou a Jéssica Pedro 👋
 ##
+<img src="https://komarev.com/ghpvc/?username=jssicapedro&color=green" alt="jssicapedro" /> 
 
 - 🔭 Atualmente estudo front-end por conta própria, espero entra em Programação de Sistemas de Informação
 - 🌱 Atualmente estou a aumentar o meu conhecimento em HTML5 e CSS.
