@@ -1,8 +1,8 @@
-###Olá! Eu sou a Jéssica Pedro 👋
+###Olá! Eu sou a Jéssica Pedro 👋🤓
 ##
 <img src="https://komarev.com/ghpvc/?username=jssicapedro&color=green" alt="jssicapedro" /> 
 
-- 🔭 Atualmente estudo front-end por conta própria, espero entra em Programação de Sistemas de Informação
+- 🔭 Atualmente estudo front-end por conta própria, espero entrar em Programação de Sistemas de Informação
 - 🌱 Atualmente estou a aumentar o meu conhecimento em HTML5 e CSS.
 - 📫 Veja as minhas redes sociais mais a baixo
 
@@ -16,7 +16,7 @@
   <!--<img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">-->
   <img align="center" alt="jssica-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="jssica-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img width:"10%" align="right" alt="jssica-gaara" src="https://giffiles.alphacoders.com/121/12155.gif">
+  <img align="right" alt="jssica-gaara" src="https://giffiles.alphacoders.com/121/12155.gif">
   <!-- <img src="https://komarev.com/ghpvc/?username=jssicapedro&color=green" alt="jssicapedro" /> -->
 </div>
   
