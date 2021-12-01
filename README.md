@@ -2,9 +2,9 @@
 ##
 <img src="https://komarev.com/ghpvc/?username=jssicapedro&color=green" alt="jssicapedro" /> 
 
-- 🔭 Atualmente estudo front-end por conta própria, espero entrar em Programação de Sistemas de Informação
-- 🌱 Atualmente estou a aumentar o meu conhecimento em HTML5 e CSS.
-- 📫 Veja as minhas redes sociais mais a baixo
+- 🎒 Study at the Polytechnic Institute of Leiria
+- 🖥️ HTML, CSS and JS
+- 📫 See my social media 
 
 <div>
   <a href="https://github.com/jssicapedro">
