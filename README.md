@@ -2,8 +2,6 @@
 <img src="https://komarev.com/ghpvc/?username=jssicapedro&color=green" alt="jssicapedro" /> 
 
 - 🎒 Study at the Polytechnic Institute of Leiria
-- 🖥️ HTML, CSS and JS
-- 📫 See my social media 
 
 <div>
   <a href="https://github.com/jssicapedro">
