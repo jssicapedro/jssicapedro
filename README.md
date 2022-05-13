@@ -11,12 +11,14 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jssicapedro&layout=compact&langs_count=7&theme=algolia"/>
 </div>
   
-<div style="display: inline_block"><br>
+<div style="display:flex; align-items:center;"><br>
   <img align="center" alt="jssica-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="jssica-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="jssica-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="jssica-JQUERY" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-          ">
+  <img align="center" alt="jssica-BOOTSTRAP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="jssica-JQUERY" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg">
+  <img align="center" alt="jssica-PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
+  <img align="center" alt="jssica-MYSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   <!-- <img src="https://komarev.com/ghpvc/?username=jssicapedro&color=green" alt="jssicapedro" /> -->
 </div>
   
