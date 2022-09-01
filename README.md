@@ -5,7 +5,7 @@
 <br>
 <div>
   <div align="center" dir="auto">
-    <img width="100%" height="300" style="object-fit: cover; "  src="meu1.png" alt="jssicapedro" />
+    <img width="100%" height="300" style="object-fit: cover;"  src="meu1.png" alt="jssicapedro" />
   </div>
   <div>
     <h2>About me</h2>
