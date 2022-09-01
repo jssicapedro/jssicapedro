@@ -1,22 +1,30 @@
 <h1>HI! I´m Jéssica Pedro 👋🤓</h1>
 <img src="https://komarev.com/ghpvc/?username=jssicapedro&color=green" alt="jssicapedro" /> 
 
-- 🎒 Study at the Polytechnic Institute of Leiria
+<div>
+  <img src="https://imgur.com/a/uWVukV7" alt="jssicapedro" />
+    <div>
+      <h2>About me</h2>
+      🤓 I've been studying since 2018, but in 2021 I focused on my passion  <br>
+      ✨ I´m from Leiria, POrtugal<br>
+      🎒 Study at the Polytechnic Institute of Leiria <br>
+      🤠 I love front-end, but I'm studying back-end
+    </div>     
+</div>
 
 <br>
-
-  
 <div align="center" dir="auto">
   <h2>Status</h2>
   <a href="https://github.com/jssicapedro">
     <img width="45%" src="https://github-readme-stats.vercel.app/api?username=jssicapedro&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jssicapedro&layout=compact&langs_count=7&theme=algolia"/>
   </a>
+
+  ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jssicapedro&layout=compact&theme=dracula)
+  
   <br>
 
   ![Snake animation](https://github.com/jssicapedro/jssicapedro/blob/output/github-contribution-grid-snake.svg)
-
-  <br>
 </div>
 
 <br>
@@ -33,16 +41,13 @@
 </div>
 
 <br>
-
 <div align="center" dir="auto">
   <h2>Study</h2>
   <img alt="jssica-VUEJS" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg">
   <br>
 </div>
 
-
 <br>
-
 <div align="center" dir="auto">
   <h2>Social Media</h2>
   <a href="https://www.youtube.com/channel/UCU5LdQL2O9rexV8ZyswRYNg/videos" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
