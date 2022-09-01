@@ -10,13 +10,13 @@
 </div> -->
   
 <div><br>
-  <img alt="jssica-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="jssica-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="jssica-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="jssica-BOOTSTRAP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
-  <img alt="jssica-JQUERY" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg">
-  <img alt="jssica-PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
-  <img alt="jssica-MYSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+  <img alt="jssica-Js" height="30" width="40" target="_blank" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="jssica-HTML" height="30" width="40" target="_blank" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="jssica-CSS" height="30" width="40" target="_blank" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="jssica-BOOTSTRAP" height="30" width="40" target="_blank" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
+  <img alt="jssica-JQUERY" height="30" width="40" target="_blank" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg">
+  <img alt="jssica-PHP" height="30" width="40" target="_blank" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
+  <img alt="jssica-MYSQL" height="30" width="40" target="_blank" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   <!-- <img src="https://komarev.com/ghpvc/?username=jssicapedro&color=green" alt="jssicapedro" /> -->
 </div>
   
