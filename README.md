@@ -3,17 +3,19 @@
   <img src="https://komarev.com/ghpvc/?username=jssicapedro&color=green" alt="jssicapedro" /> 
 </div>
 <br>
+
+<div align="center" dir="auto">
+  <img width="300" src="meu1.png" alt="jssicapedro" />
+</div>
+
 <div>
-  <div align="center" dir="auto">
-    <img width="100%" height="300" style="object-fit: cover; "  src="meu1.png" alt="jssicapedro" />
-  </div>
-  <div>
-    <h2>About me</h2>
+    <div align="center" dir="auto">
+      <h2>About me</h2>
+    </div>
     🤓 I've been studying since 2018, but in 2021 I focused on my passion  <br>
-    ✨ I´m from Leiria, POrtugal<br>
+    ✨ I´m from Leiria, Portugal<br>
     🎒 Study at the Polytechnic Institute of Leiria <br>
     🤠 I love front-end, but I'm studying back-end
-  </div>     
 </div>
 
 <br>
