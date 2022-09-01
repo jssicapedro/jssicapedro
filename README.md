@@ -1,6 +1,6 @@
 <h1 align="center" dir="auto">HI! I´m Jéssica Pedro 👋🤓</h1>
 <div align="center" dir="auto">
-  <img src="https://komarev.com/ghpvc/?username=jssicapedro&color=green" alt="jssicapedro" /> 
+  <!-- <img src="https://komarev.com/ghpvc/?username=jssicapedro&color=green" alt="jssicapedro" />  -->
 </div>
 <br>
 
