@@ -1,15 +1,19 @@
-<h1>HI! I´m Jéssica Pedro 👋🤓</h1>
-<img src="https://komarev.com/ghpvc/?username=jssicapedro&color=green" alt="jssicapedro" /> 
-
+<h1 align="center" dir="auto">HI! I´m Jéssica Pedro 👋🤓</h1>
+<div align="center" dir="auto">
+  <img src="https://komarev.com/ghpvc/?username=jssicapedro&color=green" alt="jssicapedro" /> 
+</div>
+<br>
 <div>
-  <img src="https://imgur.com/a/uWVukV7" alt="jssicapedro" />
-    <div>
-      <h2>About me</h2>
-      🤓 I've been studying since 2018, but in 2021 I focused on my passion  <br>
-      ✨ I´m from Leiria, POrtugal<br>
-      🎒 Study at the Polytechnic Institute of Leiria <br>
-      🤠 I love front-end, but I'm studying back-end
-    </div>     
+  <div align="center" dir="auto">
+    <img width="100%" height="300" style="object-fit: cover; "  src="meu1.png" alt="jssicapedro" />
+  </div>
+  <div>
+    <h2>About me</h2>
+    🤓 I've been studying since 2018, but in 2021 I focused on my passion  <br>
+    ✨ I´m from Leiria, POrtugal<br>
+    🎒 Study at the Polytechnic Institute of Leiria <br>
+    🤠 I love front-end, but I'm studying back-end
+  </div>     
 </div>
 
 <br>
