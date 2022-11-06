@@ -49,7 +49,7 @@
 <br>
 <div align="center" dir="auto">
   <h2>Study</h2>
-  <img alt="jssica-VUEJS" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg">
+  <img alt="jssica-APACHE" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg">
   <br>
 </div>
 
