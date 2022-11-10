@@ -36,10 +36,10 @@
 <br>
 <div  align="center" dir="auto">
   <h2>Skills</h2>
-  <img alt="jssica-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="jssica-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="jssica-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="jssica-BOOTSTRAP" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
+  <img alt="jssica-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="jssica-JQUERY" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg">
   <img alt="jssica-PHP" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
   <img alt="jssica-MYSQL" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"> 
