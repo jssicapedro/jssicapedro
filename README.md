@@ -43,16 +43,17 @@
   <img alt="jssica-JQUERY" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg">
   <img alt="jssica-PHP" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
   <img alt="jssica-MYSQL" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"> 
+  <img alt="jssica-LARAVEL" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg">
   <br>
 </div>
 
 <br>
 <div align="center" dir="auto">
   <h2>Study</h2>
+  <img alt="jssica-PYTHON" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img alt="jssica-APACHE" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg">
   <img alt="jssica-GIT" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <img alt="jssica-GUITHUB" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
-  <img alt="jssica-LARAVEL" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg">
   <br>
 </div>
 
