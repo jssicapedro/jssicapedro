@@ -51,9 +51,10 @@
 <div align="center" dir="auto">
   <h2>Study</h2>
   <img alt="jssica-PYTHON" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-  <img alt="jssica-APACHE" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg">
+  /*<img alt="jssica-APACHE" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg">*/
   <img alt="jssica-GIT" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <img alt="jssica-GUITHUB" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
+  <img alt="jssica-GUITHUB" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
   <br>
 </div>
 
